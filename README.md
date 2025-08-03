@@ -6,7 +6,7 @@ This project is a supervised machine learning task that aims to predict the spec
 ## File Structure
 ```
 iris-classification/
-
+│
 ├── data/                 # Dataset and other resources (like images)
 ├── notebooks/            # Jupyter notebooks for EDA and modeling
 ├── models/               # Saved ML model files (to be added)
