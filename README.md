@@ -14,4 +14,4 @@ iris-classification
 
 ## General Information
 - Dataset: [Iris.csv](data/Iris.csv)
-- EDA Notebook: [eda.ipynb](notebooks/eda.ipynb)
+- EDA Notebook: [eda.ipynb](notebooks/data-analysis/eda.ipynb)
