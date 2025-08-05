@@ -1,7 +1,7 @@
-# Iris Flower Classification ML Project
+# Iris Flower Classification
 
 ## Overview
-This project is a supervised machine learning task that aims to predict the species of a flower based on it's sepal and petal width and lengths. The dataset used is the classical Iris Dataset. The project includes model training, evaluation and comparison of multiple different machine learning algorithims, as well as an exploratory data analysis.
+This is a supervised machine learning project that aims to predict the species of a flower based on it's sepal and petal width and lengths. The dataset used is the classical Iris Dataset. The project includes model training, evaluation and comparison of multiple different machine learning algorithims, as well as an exploratory data analysis.
 
 ## Models Comparison
 - Neural Network
